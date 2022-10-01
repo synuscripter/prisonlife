@@ -1054,7 +1054,7 @@ TextLabel.BorderColor3 = Color3.new(0.0784314, 0.0784314, 0.0784314)
 TextLabel.Position = UDim2.new(0.0977189764, 0, 0.169863015, 0)
 TextLabel.Size = UDim2.new(0, 322, 0, 19)
 TextLabel.Font = Enum.Font.SourceSansBold
-TextLabel.Text = "GUI Made By: Jmuse#3982"
+TextLabel.Text = "GUI Made By: rodizzy#0001"
 TextLabel.TextColor3 = Color3.new(1, 1, 1)
 TextLabel.TextSize = 14
 
@@ -1064,7 +1064,7 @@ TextLabel_2.BorderColor3 = Color3.new(0.0784314, 0.0784314, 0.0784314)
 TextLabel_2.Position = UDim2.new(0.0977189764, 0, 0.221917808, 0)
 TextLabel_2.Size = UDim2.new(0, 322, 0, 19)
 TextLabel_2.Font = Enum.Font.SourceSansBold
-TextLabel_2.Text = "Youtube: Jmuse"
+TextLabel_2.Text = "You should buy prem prison life gui"
 TextLabel_2.TextColor3 = Color3.new(1, 1, 1)
 TextLabel_2.TextSize = 14
 
@@ -1074,7 +1074,7 @@ TextLabel_3.BorderColor3 = Color3.new(0.0784314, 0.0784314, 0.0784314)
 TextLabel_3.Position = UDim2.new(0.105275653, 0, 0.273972601, 0)
 TextLabel_3.Size = UDim2.new(0, 322, 0, 19)
 TextLabel_3.Font = Enum.Font.SourceSansBold
-TextLabel_3.Text = "Website: http://rbxcheats.com/"
+TextLabel_3.Text = "For more scripts join up! https://discord.gg/dcRkcK9Ppf"
 TextLabel_3.TextColor3 = Color3.new(1, 1, 1)
 TextLabel_3.TextSize = 14
 
@@ -1094,7 +1094,7 @@ TextLabel_5.BorderColor3 = Color3.new(0.0784314, 0.0784314, 0.0784314)
 TextLabel_5.Position = UDim2.new(0.105275653, 0, 0.479452044, 0)
 TextLabel_5.Size = UDim2.new(0, 322, 0, 19)
 TextLabel_5.Font = Enum.Font.SourceSansBold
-TextLabel_5.Text = "Most Scripts Made By: Jake11Price"
+TextLabel_5.Text = "Join official server https://discord.gg/dcRkcK9Ppfcopy and join!"
 TextLabel_5.TextColor3 = Color3.new(1, 1, 1)
 TextLabel_5.TextSize = 14
 
