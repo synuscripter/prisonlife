@@ -1242,12 +1242,18 @@ Text = "synus Prison Life GUI v2.2 Has Loaded";
 wait(1)
 game:GetService("StarterGui"):SetCore("SendNotification", {
 Title = "Info:";
-Text = "Press [F] To Open GUI";
+Text = "Press (G) To Open GUI";
 })
 wait(1)
 game:GetService("StarterGui"):SetCore("SendNotification", {
 Title = "Info:";
 Text = "Made By: rodizzy#2011";
+})
+
+
+game:GetService("StarterGui"):SetCore("SendNotification", {
+Title = "Info:";
+Text = "Synus gui free v2 you should buy prem fr";
 })
 
 function zigzag(X) return math.acos(math.cos(X*math.pi))/math.pi end
