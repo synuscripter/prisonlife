@@ -1084,7 +1084,7 @@ TextLabel_4.BorderColor3 = Color3.new(0.0784314, 0.0784314, 0.0784314)
 TextLabel_4.Position = UDim2.new(0.0952000841, 0, 0.326027393, 0)
 TextLabel_4.Size = UDim2.new(0, 322, 0, 19)
 TextLabel_4.Font = Enum.Font.SourceSansBold
-TextLabel_4.Text = "DM Me On Discord For Server Invite"
+TextLabel_4.Text = "Thanks for using synus prison life gui!"
 TextLabel_4.TextColor3 = Color3.new(1, 1, 1)
 TextLabel_4.TextSize = 14
 
