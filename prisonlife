@@ -1237,7 +1237,7 @@ coroutine.resume(coroutine.create(SCRIPT_ZVLF84_FAKESCRIPT))
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
 Title = "Info:";
-Text = "Prison Life GUI v2.2 Has Loaded";
+Text = "synus Prison Life GUI v2.2 Has Loaded";
 })
 wait(1)
 game:GetService("StarterGui"):SetCore("SendNotification", {
@@ -1247,7 +1247,7 @@ Text = "Press [F] To Open GUI";
 wait(1)
 game:GetService("StarterGui"):SetCore("SendNotification", {
 Title = "Info:";
-Text = "Made By: Jmuse#3982";
+Text = "Made By: rodizzy#2011";
 })
 
 function zigzag(X) return math.acos(math.cos(X*math.pi))/math.pi end
